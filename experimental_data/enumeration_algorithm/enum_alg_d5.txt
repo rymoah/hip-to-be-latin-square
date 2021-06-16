@@ -1,0 +1,27 @@
+Diameter: 5
+Degree: 4
+Number of linear rules: 8
+Maximum period attainable by linear orthogonal sequences: 255
+Divisors of the maximum order: 1 3 5 15 17 51 85 255 
+
+Rule: 1431677610 NL: 0; POL: P(X) = 1 + X^4; Rule: 2576967270 NL: 0; POL: P(X) = 1 + X^1 + X^4; Order: -1
+Rule: 1431677610 NL: 0; POL: P(X) = 1 + X^4; Rule: 2779077210 NL: 0; POL: P(X) = 1 + X^2 + X^4; Order: 15
+Rule: 1431677610 NL: 0; POL: P(X) = 1 + X^4; Rule: 2857719210 NL: 0; POL: P(X) = 1 + X^3 + X^4; Order: -1
+Rule: 1431677610 NL: 0; POL: P(X) = 1 + X^4; Rule: 2523490710 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3 + X^4; Order: -1
+Rule: 2576967270 NL: 0; POL: P(X) = 1 + X^1 + X^4; Rule: 2779077210 NL: 0; POL: P(X) = 1 + X^2 + X^4; Order: -1
+Rule: 2576967270 NL: 0; POL: P(X) = 1 + X^1 + X^4; Rule: 1768527510 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^4; Order: -1
+Rule: 2576967270 NL: 0; POL: P(X) = 1 + X^1 + X^4; Rule: 2857719210 NL: 0; POL: P(X) = 1 + X^3 + X^4; Order: -1
+Rule: 2576967270 NL: 0; POL: P(X) = 1 + X^1 + X^4; Rule: 1721342310 NL: 0; POL: P(X) = 1 + X^1 + X^3 + X^4; Order: 5
+Rule: 2576967270 NL: 0; POL: P(X) = 1 + X^1 + X^4; Rule: 1520805210 NL: 0; POL: P(X) = 1 + X^2 + X^3 + X^4; Order: 85
+Rule: 2576967270 NL: 0; POL: P(X) = 1 + X^1 + X^4; Rule: 2523490710 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3 + X^4; Order: -1
+Rule: 2779077210 NL: 0; POL: P(X) = 1 + X^2 + X^4; Rule: 1768527510 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^4; Order: -1
+Rule: 2779077210 NL: 0; POL: P(X) = 1 + X^2 + X^4; Rule: 2857719210 NL: 0; POL: P(X) = 1 + X^3 + X^4; Order: -1
+Rule: 2779077210 NL: 0; POL: P(X) = 1 + X^2 + X^4; Rule: 1520805210 NL: 0; POL: P(X) = 1 + X^2 + X^3 + X^4; Order: 255
+Rule: 2779077210 NL: 0; POL: P(X) = 1 + X^2 + X^4; Rule: 2523490710 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3 + X^4; Order: -1
+Rule: 1768527510 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^4; Rule: 2857719210 NL: 0; POL: P(X) = 1 + X^3 + X^4; Order: 85
+Rule: 1768527510 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^4; Rule: 2523490710 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3 + X^4; Order: -1
+Rule: 2857719210 NL: 0; POL: P(X) = 1 + X^3 + X^4; Rule: 1721342310 NL: 0; POL: P(X) = 1 + X^1 + X^3 + X^4; Order: 255
+Rule: 2857719210 NL: 0; POL: P(X) = 1 + X^3 + X^4; Rule: 1520805210 NL: 0; POL: P(X) = 1 + X^2 + X^3 + X^4; Order: 85
+Rule: 2857719210 NL: 0; POL: P(X) = 1 + X^3 + X^4; Rule: 2523490710 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3 + X^4; Order: -1
+Rule: 1721342310 NL: 0; POL: P(X) = 1 + X^1 + X^3 + X^4; Rule: 2523490710 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3 + X^4; Order: -1
+Rule: 1520805210 NL: 0; POL: P(X) = 1 + X^2 + X^3 + X^4; Rule: 2523490710 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3 + X^4; Order: 255

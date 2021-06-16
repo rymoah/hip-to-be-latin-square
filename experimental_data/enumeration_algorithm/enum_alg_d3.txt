@@ -1,0 +1,7 @@
+Diameter: 3
+Degree: 2
+Number of linear rules: 2
+Maximum period attainable by linear orthogonal sequences: 15
+Divisors of the maximum order: 1 3 5 15 
+
+Rule: 90 NL: 0; POL: P(X) = 1 + X^2; Rule: 150 NL: 0; POL: P(X) = 1 + X^1 + X^2; Order: 15

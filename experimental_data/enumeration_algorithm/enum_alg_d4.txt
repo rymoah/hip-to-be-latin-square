@@ -1,0 +1,11 @@
+Diameter: 4
+Degree: 3
+Number of linear rules: 4
+Maximum period attainable by linear orthogonal sequences: 63
+Divisors of the maximum order: 1 3 7 9 21 63 
+
+Rule: 21930 NL: 0; POL: P(X) = 1 + X^3; Rule: 39270 NL: 0; POL: P(X) = 1 + X^1 + X^3; Order: 63
+Rule: 21930 NL: 0; POL: P(X) = 1 + X^3; Rule: 42330 NL: 0; POL: P(X) = 1 + X^2 + X^3; Order: -1
+Rule: 39270 NL: 0; POL: P(X) = 1 + X^1 + X^3; Rule: 42330 NL: 0; POL: P(X) = 1 + X^2 + X^3; Order: -1
+Rule: 39270 NL: 0; POL: P(X) = 1 + X^1 + X^3; Rule: 27030 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3; Order: 21
+Rule: 42330 NL: 0; POL: P(X) = 1 + X^2 + X^3; Rule: 27030 NL: 0; POL: P(X) = 1 + X^1 + X^2 + X^3; Order: 7
